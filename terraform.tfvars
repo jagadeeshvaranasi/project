@@ -1,0 +1,6 @@
+aws_region     = "us-east-1"
+instance_type  = "t3.medium"
+key_name_prefix = "devsecops_key"
+allowed_ssh_cidr = "0.0.0.0/0"
+agent_name     = "vishwa-ubuntu-a"
+jenkins_key_name = "vish-cred-ssh-key"
